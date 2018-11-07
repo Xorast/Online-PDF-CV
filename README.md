@@ -1,1 +1,1 @@
-Minimalist online CV.
+PDF online CV.
